@@ -1,7 +1,7 @@
 {
     "github.com/howeyc/fsnotify": {
-        "repo": "http://github.com/howeyc/fsnotify.git",
-        "version": "441bbc86b167",
+        "repo": "https://github.com/UhuruSoftware/fsnotify.git",
+        "version": "fbf034d58bc4128dd12f4b57d0fb148c9e56170e",
         "type": "git-clone",
         "alias": "github.com/howeyc/fsnotify"
     },
